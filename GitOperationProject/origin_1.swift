@@ -12,4 +12,8 @@ class origin_1: NSObject {
     func hello() {
         print("Hello")
     }
+    
+    func world() {
+        print("world")
+    }
 }
